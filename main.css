@@ -827,7 +827,7 @@ button,
   height: unset;
   display: flex;
   flex: 1 0 auto;
-  background-color: #eaeaeaff;
+  background-color: #555555ff;
   flex-wrap: wrap;
 }
 .demon-sheet .demon-label-corner-both {
@@ -988,7 +988,7 @@ button,
   background-color: #333333ff;
 }
 .netarch-list-content li:nth-child(odd) {
-  background-color: #eaeaeaff;
+  background-color: #555555ff;
 }
 .item-role-section {
   background-color: #b90202ff;
@@ -998,7 +998,7 @@ button,
   background-color: #333333ff;
 }
 .role-list-content li:nth-child(odd) {
-  background-color: #eaeaeaff;
+  background-color: #555555ff;
 }
 .help-article,
 .help-article:link,
