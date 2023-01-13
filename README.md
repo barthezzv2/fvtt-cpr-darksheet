@@ -15,3 +15,4 @@ Place the file in your Cyberpunk RED module location, you will need to do that e
 - Refresh foundry and you should see the changes.
 
 
+Works as of Foundry VTT V10 Build 291 && Cyberpunk RED Core v0.85.2.
